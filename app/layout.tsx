@@ -10,7 +10,7 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "ChatGPT-天府银行",
+  title: "文心一言-天府银行",
   description: "天府银行",
   viewport: {
     width: "device-width",
